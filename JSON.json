@@ -1,0 +1,13 @@
+{
+  "fullName" : "Syam",
+  "address1" : {
+    "streetAdd" : "4, Ibbani Street",
+    "city1" : "Bangalore",
+    "state1" : "Karnataka",
+    "pinCode" : 560064
+  },
+  "id" : {
+    "PAN" : "BTDPC7785D",
+    "adhaarno" : "9738128018"
+  }
+}
